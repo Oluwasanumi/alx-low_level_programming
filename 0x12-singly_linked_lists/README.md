@@ -6,4 +6,8 @@
 
 - C files compiled using `gcc 4.8.4`
 - C files are written according to the `C90 standard.
-- Tested on `Ubuntu 20.04 LTS.
+- Tested on `Ubuntu 20.04 LTS`.
+
+## Private
+
+- [private](https://github.com/Sanoxi/alx-low_level_programming/tree/master/0x12-singly_linked_lists/private): This directory contains all my test files for this project.
