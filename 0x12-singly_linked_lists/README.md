@@ -4,4 +4,4 @@
 
 ## Technologies
 
-... C files compiled using `gcc 4.8.4`
+** C files compiled using `gcc 4.8.4`
