@@ -20,4 +20,3 @@
 
 > All the following are programs written in C.
 
-| __Filename__ | __Description__ |
