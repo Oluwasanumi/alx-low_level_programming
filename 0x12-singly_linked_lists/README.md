@@ -1,3 +1,7 @@
 # Singly linked lists
 
 > Project done during `Full Stack Software Engineering studies` at `ALX AFRICA SE`. It aims to learn about linked lists in `C language`.
+
+## Technologies
+
+... C files compiled using `gcc 4.8.4`
