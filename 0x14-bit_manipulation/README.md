@@ -21,6 +21,6 @@ Project done during Full Stack Software Engineering studies at `Alx Africa`. It 
 > All of the following files are programs written in C:
 
 | _FIlename_ | _Description_ | _Prototype_ |
-| ---------- | ------------- | ----------- |
+| ------------- | ------------- | ----------- |
 |[0-binary_to_uint.c](https://github.com/Sanoxi/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c) | a function that converts a binary number to an unsigned int. | `unsigned int binary_to_uint(const char *b)` |
 | [1-print_binary.c](https://github.com/Sanoxi/alx-low_level_programming/blob/master/0x14-bit_manipulation/1-print_binary.c) | a function that prints the binary representation of a number. | void print_binary(unsigned long int n) |
