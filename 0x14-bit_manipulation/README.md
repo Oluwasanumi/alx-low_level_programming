@@ -11,3 +11,16 @@ Project done during Full Stack Software Engineering studies at `Alx Africa`. It 
 ## Test
 
 - [test](https://github.com/Sanoxi/alx-low_level_programming/tree/master/0x14-bit_manipulation/test): This directory contains all my main.c and exe files for this project.
+
+## Main.h 
+
+- [main.h](https://github.com/Sanoxi/alx-low_level_programming/blob/master/0x14-bit_manipulation/main.h): Header file containing prototypes for all functions written in the project.
+
+## Files
+
+> All of the following files are programs written in C:
+
+| _FIlename_ | _Description_ | _Prototype_ |
+| ---------- | ------------- | ----------- |
+|[0-binary_to_uint.c](https://github.com/Sanoxi/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c) | a function that converts a binary number to an unsigned int. | `unsigned int binary_to_uint(const char *b)` |
+| [1-print_binary.c](https://github.com/Sanoxi/alx-low_level_programming/blob/master/0x14-bit_manipulation/1-print_binary.c) | a function that prints the binary representation of a number. | void print_binary(unsigned long int n) |
